@@ -1,0 +1,24 @@
+.home-5-banner .right-sec .banner-tile-text {
+    top: 100%;
+}
+.cta-button {
+    color: #FFFFFF !important;
+}
+.home-5-banner .banner-image .banner-icon-rep-1 {
+    top: -5%
+}
+.home-5-banner .banner-image .banner-icon-rep-3 {
+    left: -5%;
+}
+.home-5-banner .right-sec .banner-tile-text {
+    right : 10px
+}
+html{
+    margin: 0px !important;
+}
+.banner-image img{
+    border-radius : 20px
+}
+.banner-left-right-section .left-sec{
+    padding-left : 20px
+}

@@ -13,7 +13,7 @@
                                         <div class="row-fluid">
                                             <div class="span12 widget-span widget-type-custom_widget dnd-module" data-widget-type="custom_widget" data-x="0" data-w="12">
                                                 <div id="hs_cos_wrapper_widget_1626325573921" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-logo" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-                                                    <div id="hs_cos_wrapper_widget_1626325573921_hs_logo_widget" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="index.html" id="hs-link-widget_1626325573921_hs_logo_widget" style="border-width: 0px; border: 0px"><img src="../../Downloads/Helpware/www.helpware.com/hubfs/helpware_2021/location/helpware-logo2.svg" class="hs-image-widget" style="
+                                                    <div id="hs_cos_wrapper_widget_1626325573921_hs_logo_widget" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="index.html" id="hs-link-widget_1626325573921_hs_logo_widget" style="border-width: 0px; border: 0px"><img src="<?php echo get_template_directory_uri();?>/images/sharkmedical.png" class="hs-image-widget" style="
                                       width: 400px;
                                       border-width: 0px;
                                       border: 0px;
@@ -40,18 +40,18 @@
                                     </div>
                                     <!--end row-wrapper -->
 
-                                    <div class="row-fluid-wrapper row-depth-1 row-number-4 dnd-row">
-                                        <div class="row-fluid">
-                                            <div class="span12 widget-span widget-type-custom_widget dnd-module" data-widget-type="custom_widget" data-x="0" data-w="12">
-                                                <div id="hs_cos_wrapper_widget_1626503253223" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" data-hs-cos-general-type="widget" data-hs-cos-type="module"><img id="image-125-10" alt="clutch logo" src="../../Downloads/Helpware/www.helpware.com/hubfs/helpware_2021/location/clutch-footer1.png" class="ct-image footer_rewards">
-                                                    <img id="image-127-10" alt="goodfirms logo" src="../../Downloads/Helpware/www.helpware.com/hubfs/helpware_2021/location/goodfirms-footer1.png" class="ct-image footer_rewards">
-                                                    <img id="image-128-10" alt="manifest logo" src="../../Downloads/Helpware/www.helpware.com/hubfs/helpware_2021/location/manifest-footer1.png" class="ct-image footer_rewards">
-                                                </div>
-                                            </div>
-                                            <!--end widget-span -->
-                                        </div>
-                                        <!--end row-->
-                                    </div>
+<!--                                    <div class="row-fluid-wrapper row-depth-1 row-number-4 dnd-row">-->
+<!--                                        <div class="row-fluid">-->
+<!--                                            <div class="span12 widget-span widget-type-custom_widget dnd-module" data-widget-type="custom_widget" data-x="0" data-w="12">-->
+<!--                                                <div id="hs_cos_wrapper_widget_1626503253223" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" data-hs-cos-general-type="widget" data-hs-cos-type="module"><img id="image-125-10" alt="clutch logo" src="../../Downloads/Helpware/www.helpware.com/hubfs/helpware_2021/location/clutch-footer1.png" class="ct-image footer_rewards">-->
+<!--                                                    <img id="image-127-10" alt="goodfirms logo" src="../../Downloads/Helpware/www.helpware.com/hubfs/helpware_2021/location/goodfirms-footer1.png" class="ct-image footer_rewards">-->
+<!--                                                    <img id="image-128-10" alt="manifest logo" src="../../Downloads/Helpware/www.helpware.com/hubfs/helpware_2021/location/manifest-footer1.png" class="ct-image footer_rewards">-->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                            <!--end widget-span -->-->
+<!--                                        </div>-->
+<!--                                        <!--end row-->-->
+<!--                                    </div>-->
                                     <!--end row-wrapper -->
 
                                     <div class="row-fluid-wrapper row-depth-1 row-number-5 dnd-row">
@@ -60,10 +60,10 @@
                                                 <div id="hs_cos_wrapper_widget_1626325793385" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" data-hs-cos-general-type="widget" data-hs-cos-type="module">
                                                     <div class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text footer_list" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><ul>
                                                             <li>
-                                                                <a href="mailto:hello@helpware.com">hello@helpware.com</a>
+                                                                <a href="mailto:hello@shark.com">hello@helpware.com</a>
                                                             </li>
                                                             <li>
-                                                                <a href="tel:+1(949)2732824">+1 (949) 273 - 2824</a>
+                                                                <a href="tel:+1(949)2732824">+1 (949) 123 - 3434</a>
                                                             </li>
                                                         </ul></div>
                                                 </div>
@@ -389,7 +389,7 @@
                                       </g></svg></span></span></span></a>
                                             </p>
                                             <p class="footer-copyright-text">
-                                                © 2022 <span>Helpware</span> | All Rights Reserved
+                                                © 2022 <span>Shark Medical</span> | All Rights Reserved
                                             </p>
                                             <p class="footer-copyright-text">
                                                 <a href="../../Downloads/Helpware/www.helpware.com/terms.html" rel="noopener">Terms of Service</a>
