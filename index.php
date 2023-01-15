@@ -1,6 +1,10 @@
-<?php get_header(); ?>
+<?php get_header(); wp_head();?>
+<!doctype html><html lang="en">
+<head>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    </head>
+    <body>
     <script>
         AOS.init();
 
@@ -102,6 +106,10 @@
 
 
                                                                         <div class="banner-icon-rep banner-icon-rep-1">
+
+
+
+
 
 
                                                                             <img src="https://www.helpware.com/hubfs/helpware-icon.svg" alt="helpware-icon" loading="lazy" style="max-width: 100%; height: auto;">
@@ -937,14 +945,16 @@
         </div>
     </main>
     <script>
-        (function () {
-            var  nav = document.querySelector(".header__navigation"), search = document.querySelector(".header__search"), allToggles = document.querySelectorAll(".header--toggle"), navToggle = document.querySelector(".header__navigation--toggle"), langToggle = document.querySelector(".header__language-switcher--toggle"), searchToggle = document.querySelector(".header__search--toggle"), closeToggle = document.querySelector(".header__close--toggle"), allElements = document.querySelectorAll(".header--element, .header--toggle"), emailGlobalUnsub = document.querySelector('input[name="globalunsub"]');
-            function toggleNav() {
-                nav.classList.toggle("open"),
-                    navToggle.classList.toggle("open"),
-                    console.log("menu opened")
-            }
-            navToggle && navToggle.addEventListener("click", toggleNav)
-        })();
-    </script>
+(function () {
+  var  nav = document.querySelector(".header__navigation"), search = document.querySelector(".header__search"), allToggles = document.querySelectorAll(".header--toggle"), navToggle = document.querySelector(".header__navigation--toggle"), langToggle = document.querySelector(".header__language-switcher--toggle"), searchToggle = document.querySelector(".header__search--toggle"), closeToggle = document.querySelector(".header__close--toggle"), allElements = document.querySelectorAll(".header--element, .header--toggle"), emailGlobalUnsub = document.querySelector('input[name="globalunsub"]');
+  function toggleNav() {
+    nav.classList.toggle("open"),
+            navToggle.classList.toggle("open"),
+            console.log("menu opened")
+  }
+  navToggle && navToggle.addEventListener("click", toggleNav)
+})();
+</script>
+    </body>
+    </html>
 <?php get_footer(); ?>
